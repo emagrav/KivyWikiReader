@@ -68,6 +68,10 @@ instance/
 # Scrapy stuff:
 .scrapy
 
+# aggiunto io
+# Kivy stuff:
+.buildozer
+
 # Sphinx documentation
 docs/_build/
 
